@@ -2,14 +2,16 @@
   links:
     - name: Home
       link: /
-    - name: About
-      link: /about/
-    - name: Services
-      link: /services/
-    - name: Contact
-      link: /contact/
-    - name: Blog
-      link: /blog/
+    - name: Nos actions
+      link: /nos_actions/actions/
+    #- name: About
+    #  link: /about/
+   # - name: Services
+ #     link: /services/
+ #   - name: Contact
+ #     link: /contact/
+   # - name: Blog
+   #   link: /blog/
 - title: Social
   links:
     - name: Facebook
