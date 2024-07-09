@@ -4,20 +4,20 @@ call_to_action: Contact
 background_image_path:
 large_header: false
 show_in_navigation: true
+navigation_order: 1
 ---
 
-<div class="editable">
-	<h3>Le Cirem</h3>
-	
-	<p>
-		En construction.
-	</p>
+# Le Cirem
 
-	<p>Notre équipe :</p>
-	<h3>Nos actions<h3>
-	<h3>Notre Equipe</h3>
+En construction
+
+# Nos actions
+
+# Notre équipe 
+
+
+
 	
-</div>
 
 
 <p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Update Staff Members</a></p>
