@@ -1,11 +1,11 @@
 - title: Pages
   links:
-    - name: Home
+    - name: A propos
       link: /
     - name: Nos actions
       link: /nos_actions/actions/
-    #- name: About
-    #  link: /about/
+    - name: Ressources
+      link: /ressources/ressources/
    # - name: Services
  #     link: /services/
  #   - name: Contact
