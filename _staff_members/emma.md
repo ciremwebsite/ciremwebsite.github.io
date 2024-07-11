@@ -1,6 +1,6 @@
 ---
 name: Emma Visdeloup
-image: "/https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/_staff_members/emma.png"
+image: "emma.png"
 credentials: Trésorière
 ---
 
