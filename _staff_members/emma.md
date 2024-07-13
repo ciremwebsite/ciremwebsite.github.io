@@ -1,7 +1,5 @@
 ---
 name: Emma Visdeloup
-image: "emma.png"
+image: "//emma.png"
 credentials: Trésorière
 ---
-
-Néo-interne
