@@ -1,6 +1,6 @@
 ---
 name: Emma Visdeloup
-image: "//emma.png"
+image: "//_staff_members/emma.png"
 credentials: Trésorière
 phone_extension: "Néo-interne"
 ---
