@@ -25,11 +25,11 @@ Le CIREM hérite du CIRE. Vous retrouverez donc ici les documents issus des acti
 
 - Questionnaire national à l'issue des ECOS, afin de récupérer des témoignages (en cours d'analyse).
   
-- Collaboration avec une avocate en Droit Public, maître Bost, pour recenser les  [nombreux dysfonctionnements](https://bendjelal.github.io/associatif/CIREM/courrier_maitre_bost.pdf) recensant des ECOS, adressée au Centre National de Gestion, au Ministère de la Santé et à la Conférence des Doyens.
+- Collaboration avec une avocate en Droit Public, maître Bost, pour recenser les  [nombreux dysfonctionnements](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/courrier_maitre_bost.pdf) recensant des ECOS, adressée au Centre National de Gestion, au Ministère de la Santé et à la Conférence des Doyens.
 
-- Etude statistique des notes obtenues aux ECOS blancs de 2024. L'absence de reproducibilité des notes chez un même étudiant d'une année sur l'autre contre-indique des ECOS classants. Résultats complets [ici](https://bendjelal.github.io/associatif/CIREM/notes_ecos_blancs_mars_2024.pdf).
+- Etude statistique des notes obtenues aux ECOS blancs de 2024. L'absence de reproducibilité des notes chez un même étudiant d'une année sur l'autre contre-indique des ECOS classants. Résultats complets [ici](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/notes_ecos_blancs_mars_2024.pdf).
 
-- Consultation d'un avocat au Conseil d'Etat, maître Arvis, vis-à-vis de la [légalité des ECOS](https://bendjelal.github.io/associatif/CIREM/consultation_arvis_avocat.pdf).
+- Consultation d'un avocat au Conseil d'Etat, maître Arvis, vis-à-vis de la [légalité des ECOS](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/consultation_arvis_avocat.pdf).
 
-  - Consultation nationale des étudiants en Médecine à propos des ECOS. Parmi les **2523 répondants**, dont 1440 DFASM3, **83% demandent des ECOS validants**. Résultats complets [ici](https://bendjelal.github.io/associatif/CIREM/sondage_cire_resultat.png).
+- Consultation nationale des étudiants en Médecine à propos des ECOS. Parmi les **2523 répondants**, dont 1440 DFASM3, **83% demandent des ECOS validants**. Résultats complets [ici](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/sondage_cire_resultat.png).
 
