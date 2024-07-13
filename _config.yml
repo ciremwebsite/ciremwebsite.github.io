@@ -11,8 +11,8 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Collectif Interfacultaire Représentant les Externes en Médecine
-author: Yanis Bendjelal
-  name:
+#author: Yanis Bendjelal
+#  name:
   email:
   twitter: # twitter username without the @ symbol
 social:
