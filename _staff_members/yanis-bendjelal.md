@@ -1,5 +1,5 @@
 ---
 name: Yanis Bendjelal
-image: "//placebear.com/440/440?a=.png"
+image: "https://raw.githubusercontent.com/ciremwebsite/ciremwebsite.github.io/main/_staff_members/yanis.png"
 credentials: Président
 ---
