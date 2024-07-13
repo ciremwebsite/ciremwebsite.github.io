@@ -17,7 +17,7 @@ Vous trouverez ici un détail complet de nos revenus et dépenses, incluant les 
 
 Vous trouverez ici les comptes-rendus de l'intégralité de nos réunions.
 
-- 23.06.2024 : Réunion de création de l'association. [Compte-rendu]([23.06.2024-Premiere-Réunion-CIREM.pdf](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/reunions/23.06.2024-Premiere-Re%CC%81union-CIREM.pdf).
+- 23.06.2024 : Réunion de création de l'association. [Compte-rendu](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/reunions/23.06.2024-Premiere-Re%CC%81union-CIREM.pdf).
 
 ### Actions du CIRE
 
