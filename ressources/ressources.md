@@ -23,7 +23,7 @@ Vous trouverez ici les comptes-rendus de l'intégralité de nos réunions.
 
 Le CIREM hérite du CIRE. Vous retrouverez donc ici les documents issus des actions du CIRE.
 
-- Questionnaire national à l'issue des ECOS, afin de récupérer des témoignages (en cours d'analyse).
+- Questionnaire national à l'issue des ECOS, afin de récupérer des témoignages. Résultats [ici](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/Te%CC%81moignages%20post-ECOS.pdf).
   
 - Collaboration avec une avocate en Droit Public, maître Bost, pour recenser les  [nombreux dysfonctionnements](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/courrier_maitre_bost.pdf) recensant des ECOS, adressée au Centre National de Gestion, au Ministère de la Santé et à la Conférence des Doyens.
 
