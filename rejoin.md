@@ -23,8 +23,8 @@ En devenant membre du CIREM, vous accédez à de nombreuses ressources utiles, d
 
 Soutenir le Collectif Interfacultaire Représentant les Externes en Médecine (CIREM) par un don permet de renforcer notre capacité à défendre les intérêts des étudiants en médecine. Vos contributions financent nos activités, les ressources que nous offrons, et les services professionnels dont nous bénéficions, notamment dans le domaine juridique. En faisant un don, vous aidez à assurer la pérennité de notre association et à amplifier notre impact sur la communauté médicale étudiante. Chaque don compte et contribue directement à nos initiatives et à notre mission.
 
-<div style="display: flex; justify-content: center;">
-  <div style="transform: scale(2); transform-origin: 0 0;">
+<div style="display: flex; justify-content: center; margin-top: 100px;">
+  <div style="transform: scale(2); transform-origin: center;">
     <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/collectif-interfacultaire-representant-les-externes-en-medecine/formulaires/1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
   </div>
 </div>
