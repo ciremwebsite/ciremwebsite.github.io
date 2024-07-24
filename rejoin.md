@@ -13,6 +13,11 @@ Le Collectif Interfacultaire Représentant les Externes en Médecine (CIREM) est
 
 En devenant membre du CIREM, vous accédez à de nombreuses ressources utiles, des conseils d'experts, et la possibilité de participer à des sondages influençant les décisions importantes. Notre association met un point d'honneur à garantir la transparence et la représentativité de vos voix au sein de la communauté médicale.
 
+
+<div style="transform: scale(1.5); transform-origin: 0 0;">
+  <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/collectif-interfacultaire-representant-les-externes-en-medecine/formulaires/1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+</div>
+
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/collectif-interfacultaire-representant-les-externes-en-medecine/adhesions/adhesion/widget-bouton" style="width: 100%; height: 70; border: none;"></iframe>
 
 #### Faire un don
