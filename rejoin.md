@@ -15,7 +15,7 @@ En devenant membre du CIREM, vous accédez à de nombreuses ressources utiles, d
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
   <div style="transform: scale(2); transform-origin: center;">
-   <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/collectif-interfacultaire-representant-les-externes-en-medecine/adhesions/adhesion/widget-bouton" style="width: 100%; height: 70; border: none;"></iframe>
+   <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/collectif-interfacultaire-representant-les-externes-en-medecine/adhesions/adhesion/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
   </div>
 </div>
 
