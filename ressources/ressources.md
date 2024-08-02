@@ -42,10 +42,6 @@ Vous trouverez ici un détail complet de nos revenus et dépenses, incluant les 
 </head>
 <body>
     <div class="container">
-        <h1>COMPTABILITÉ</h1>
-        <p>
-            Vous trouverez ici un détail complet de nos revenus et dépenses, incluant les sources de financement et l’utilisation précise de ces fonds. Nous croyons fermement que la transparence est essentielle pour maintenir la confiance de nos membres et garantir une gestion responsable de nos ressources. Explorez cette section pour comprendre comment chaque contribution est utilisée pour soutenir les activités et les initiatives du CIREM.
-        </p>
         <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0uzsRTJfrZmlfkgEI2678SjKK6mlIdge0GYtu19n5OUCOSOhvD2FsyhNQCqOBJYSrQeJeSGrmhwP/pubhtml?gid=637200569&single=true&widget=true&headers=false"></iframe>
         <a class="download-link" href="URL_DU_PDF" download>Télécharger le PDF</a>
     </div>
