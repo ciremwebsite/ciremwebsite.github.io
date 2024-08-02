@@ -13,6 +13,8 @@ Cette section est dédiée au partage de documents essentiels pour les étudiant
 
 Vous trouverez ici un détail complet de nos revenus et dépenses, incluant les sources de financement et l'utilisation précise de ces fonds. Nous croyons fermement que la transparence est essentielle pour maintenir la confiance de nos membres et garantir une gestion responsable de nos ressources. Explorez cette section pour comprendre comment chaque contribution est utilisée pour soutenir les activités et les initiatives du CIREM.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0uzsRTJfrZmlfkgEI2678SjKK6mlIdge0GYtu19n5OUCOSOhvD2FsyhNQCqOBJYSrQeJeSGrmhwP/pubhtml?gid=637200569&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 ### Comptes-rendus des réunions
 
 Vous trouverez ici les comptes-rendus de l'intégralité de nos réunions.
