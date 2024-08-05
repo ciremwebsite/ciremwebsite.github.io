@@ -1,5 +1,5 @@
 ---
-title: Foire Aux Questions
+title: FAQ
 call_to_action: Contact
 background_image_path:
 large_header: true
