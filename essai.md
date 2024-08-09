@@ -6,7 +6,7 @@ large_header: false
 show_in_navigation: false
 ---
 
-À Paris, le 9 août 2024  
+**À Paris, le 9 août 2024**  
 
 Monsieur le Ministre,  
 
@@ -18,20 +18,15 @@ Plus particulièrement, avec moins de spécialistes disponibles, la capacité de
   
 Cette situation pourrait également accentuer les inégalités territoriales en matière de santé. Les hôpitaux situés dans les zones rurales ou sous-dotées, qui peinent déjà à recruter des spécialistes, seront particulièrement touchés. Sans un nombre suffisant de spécialistes, ces établissements risquent de voir leur offre de soins se réduire, obligeant les patients à se déplacer vers des centres hospitaliers plus éloignés, allongeant ainsi les délais de prise en charge et compromettant l'accès aux soins pour les populations les plus vulnérables.  
 
-        
-            Nous souhaitons aussi souligner une situation alarmante concernant le nombre d'étudiants en deuxième cycle des études de médecine. Cette année, nous avons enregistré une perte de 15 % des étudiants, et les projections pour l'année prochaine ne laissent pas entrevoir de rééquilibrage. Les résultats des concours blancs indiquent que bon nombre d'étudiants de la nouvelle promotion ont déjà décidé de redoubler. Cette tendance pourrait aggraver encore davantage le déficit en spécialistes si des mesures correctives ne sont pas rapidement prises.  
+Nous souhaitons aussi souligner une situation alarmante concernant le nombre d'étudiants en deuxième cycle des études de médecine. Cette année, nous avons enregistré une perte de 15 % des étudiants, et les projections pour l'année prochaine ne laissent pas entrevoir de rééquilibrage. Les résultats des concours blancs indiquent que bon nombre d'étudiants de la nouvelle promotion ont déjà décidé de redoubler. Cette tendance pourrait aggraver encore davantage le déficit en spécialistes si des mesures correctives ne sont pas rapidement prises.  
 
-        
-            Face à ces constats, nous sollicitons officiellement une rencontre avec vous, Monsieur le Ministre, ainsi qu'avec les directions générales des Agences Régionales de Santé (ARS), pour discuter d'une redistribution urgente des postes disponibles. Il est crucial de réévaluer la répartition des postes pour répondre aux besoins actuels et futurs du système de santé français.  
+Face à ces constats, nous sollicitons officiellement une rencontre avec vous, Monsieur le Ministre, ainsi qu'avec les directions générales des Agences Régionales de Santé (ARS), pour discuter d'une redistribution urgente des postes disponibles. Il est crucial de réévaluer la répartition des postes pour répondre aux besoins actuels et futurs du système de santé français.  
 
+Le CIREM reste à votre disposition pour entamer un dialogue constructif sur ces questions cruciales pour l'avenir de notre système de santé.  
 
-            Le CIREM reste à votre disposition pour entamer un dialogue constructif sur ces questions cruciales pour l'avenir de notre système de santé.  
+Dans l'attente de votre réponse et dans l'espoir d'une action rapide, nous vous prions d'agréer, Monsieur le Ministre, l'expression de notre haute considération.  
 
-
-            Dans l'attente de votre réponse et dans l'espoir d'une action rapide, nous vous prions d'agréer, Monsieur le Ministre, l'expression de notre haute considération.  
-
-Le Président du CIREM      
-
+**Yanis Bendjelal, le Président du CIREM**
 
 <html lang="fr">
 <head>
