@@ -10,7 +10,6 @@ show_in_navigation: false
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lettre ouverte à M. Frédéric Valletoux</title>
     <link rel="stylesheet" href="https://ciremwebsite.github.io/assets/css/style.css">
     <style>
         /* Styles supplémentaires spécifiques à cette page */
