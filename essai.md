@@ -114,7 +114,7 @@ show_in_navigation: false
     </div>
 
   <script>
-        const backendUrl = 'http://localhost:3000'; // URL de votre serveur Node.js
+        const backendUrl = '[http://localhost:3000](https://nonstop-secret-sprite.glitch.me/)'; // URL de votre serveur Node.js
 
         document.getElementById('signatureForm').onsubmit = function(e) {
             e.preventDefault();
