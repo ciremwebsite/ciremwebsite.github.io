@@ -6,6 +6,8 @@ large_header: false
 show_in_navigation: false
 ---
 
+<p>
+
 **À Paris, le 9 août 2024**  
 
 Monsieur le Ministre,  
@@ -29,45 +31,45 @@ Dans l'attente de votre réponse et dans l'espoir d'une action rapide, nous vous
 **Yanis Bendjelal, le Président du CIREM**
 
 
-    <form id="signatureForm">
-        <label for="name">Nom :</label>
-        <input type="text" id="name" name="name" required>
-        
-        <label for="email">Email :</label>
-        <input type="email" id="email" name="email" required>
-        
-        <button type="submit">Signer la Lettre</button>
-    </form>
+    <!-- Contenu de votre lettre -->
+</p>
 
-    <div class="signatures">
-        <p>Nombre de signatures : <span id="signatureCount">0</span></p>
-        <ul id="signatures"></ul>
-    </div>
+<form id="signatureForm">
+    <label for="name">Nom :</label>
+    <input type="text" id="name" name="name" required>
+    
+    <label for="email">Email :</label>
+    <input type="email" id="email" name="email" required>
+    
+    <button type="submit">Signer la Lettre</button>
+</form>
 
-    <script>
-        const signatures = [];
-        
-        document.getElementById('signatureForm').onsubmit = function(e) {
-            e.preventDefault();
-            const name = document.getElementById('name').value;
-            const email = document.getElementById('email').value;
-            signatures.push({ name, email });
-            updateSignatureList();
-            document.getElementById('name').value = '';
-            document.getElementById('email').value = '';
-        }
-        
-        function updateSignatureList() {
-            const signatureList = document.getElementById('signatures');
-            signatureList.innerHTML = '';
-            signatures.forEach((signature, index) => {
-                const li = document.createElement('li');
-                li.textContent = `${index + 1}. ${signature.name}`;
-                signatureList.appendChild(li);
-            });
-            document.getElementById('signatureCount').textContent = signatures.length;
-        }
-    </script>
+<div class="signatures">
+    <p>Nombre de signatures : <span id="signatureCount">0</span></p>
+    <ul id="signatures"></ul>
+</div>
 
-</body>
-</html>
+<script>
+    const signatures = [];
+    
+    document.getElementById('signatureForm').onsubmit = function(e) {
+        e.preventDefault();
+        const name = document.getElementById('name').value;
+        const email = document.getElementById('email').value;
+        signatures.push({ name, email });
+        updateSignatureList();
+        document.getElementById('name').value = '';
+        document.getElementById('email').value = '';
+    }
+    
+    function updateSignatureList() {
+        const signatureList = document.getElementById('signatures');
+        signatureList.innerHTML = '';
+        signatures.forEach((signature, index) => {
+            const li = document.createElement('li');
+            li.textContent = `${index + 1}. ${signature.name}`;
+            signatureList.appendChild(li);
+        });
+        document.getElementById('signatureCount').textContent = signatures.length;
+    }
+</script>
