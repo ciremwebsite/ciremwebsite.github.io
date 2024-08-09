@@ -14,7 +14,7 @@ show_in_navigation: false
     <style>
         /* Styles supplémentaires spécifiques à cette page */
     .letter p {
-        font-size: 1.5rem; /* Ajustez cette taille si nécessaire pour correspondre à "NOM" */
+        font-size: 1.7rem; /* Ajustez cette taille si nécessaire pour correspondre à "NOM" */
         margin-bottom: 15px;
         line-height: 1.6;
         }
@@ -113,29 +113,51 @@ show_in_navigation: false
         </div>
     </div>
 
-    <script>
-        const signatures = [];
-        
+  <script>
+        const backendUrl = 'http://localhost:3000'; // URL de votre serveur Node.js
+
         document.getElementById('signatureForm').onsubmit = function(e) {
             e.preventDefault();
             const name = document.getElementById('name').value;
             const email = document.getElementById('email').value;
-            signatures.push({ name, email });
-            updateSignatureList();
+            
+            fetch(`${backendUrl}/signatures`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ name, email }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Success:', data);
+                fetchSignatures(); // Recharger la liste des signatures
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+
             document.getElementById('name').value = '';
             document.getElementById('email').value = '';
         }
-        
-        function updateSignatureList() {
-            const signatureList = document.getElementById('signatures');
-            signatureList.innerHTML = '';
-            signatures.forEach((signature, index) => {
-                const li = document.createElement('li');
-                li.textContent = `${index + 1}. ${signature.name}`;
-                signatureList.appendChild(li);
-            });
-            document.getElementById('signatureCount').textContent = signatures.length;
+
+        function fetchSignatures() {
+            fetch(`${backendUrl}/signatures`)
+                .then(response => response.json())
+                .then(data => {
+                    const signatureList = document.getElementById('signatures');
+                    signatureList.innerHTML = '';
+                    data.forEach((signature, index) => {
+                        const li = document.createElement('li');
+                        li.textContent = `${index + 1}. ${signature.name}`;
+                        signatureList.appendChild(li);
+                    });
+                    document.getElementById('signatureCount').textContent = data.length;
+                });
         }
+
+        // Charger les signatures au démarrage
+        fetchSignatures();
     </script>
 
 </body>
