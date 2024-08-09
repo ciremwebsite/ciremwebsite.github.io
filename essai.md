@@ -65,7 +65,6 @@ show_in_navigation: false
 <body>
 
     <div class="container">
-        <h1 class="post-title">Lettre ouverte à M. Frédéric Valletoux, Ministre de la Santé</h1>
 
         <div class="letter">
             <p><strong>À Paris, le 9 août 2024</strong></p>
