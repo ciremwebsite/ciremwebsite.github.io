@@ -112,52 +112,58 @@ show_in_navigation: false
         </div>
     </div>
 
-  <script>
-        const backendUrl = 'https://graceful-frost-bow.glitch.me/signatures'; // URL de votre serveur Node.js
+ <script>
+    // Utilisation correcte de l'URL de base de votre backend
+    const backendUrl = 'https://graceful-frost-bow.glitch.me'; // URL de votre serveur Node.js
 
-        document.getElementById('signatureForm').onsubmit = function(e) {
-            e.preventDefault();
-            const name = document.getElementById('name').value;
-            const email = document.getElementById('email').value;
-            
-            fetch(`${backendUrl}/signatures`, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({ name, email }),
-            })
+    // Gestion de la soumission du formulaire
+    document.getElementById('signatureForm').onsubmit = function(e) {
+        e.preventDefault();
+        const name = document.getElementById('name').value;
+        const email = document.getElementById('email').value;
+        
+        // Envoi de la requête POST pour ajouter une nouvelle signature
+        fetch(`${backendUrl}/signatures`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ name, email }),
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log('Success:', data);
+            fetchSignatures(); // Recharger la liste des signatures
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+        });
+
+        // Réinitialiser le formulaire après soumission
+        document.getElementById('name').value = '';
+        document.getElementById('email').value = '';
+    }
+
+    // Fonction pour récupérer et afficher les signatures
+    function fetchSignatures() {
+        fetch(`${backendUrl}/signatures`)
             .then(response => response.json())
             .then(data => {
-                console.log('Success:', data);
-                fetchSignatures(); // Recharger la liste des signatures
-            })
-            .catch((error) => {
-                console.error('Error:', error);
-            });
-
-            document.getElementById('name').value = '';
-            document.getElementById('email').value = '';
-        }
-
-        function fetchSignatures() {
-            fetch(`${backendUrl}/signatures`)
-                .then(response => response.json())
-                .then(data => {
-                    const signatureList = document.getElementById('signatures');
-                    signatureList.innerHTML = '';
-                    data.forEach((signature, index) => {
-                        const li = document.createElement('li');
-                        li.textContent = `${index + 1}. ${signature.name}`;
-                        signatureList.appendChild(li);
-                    });
-                    document.getElementById('signatureCount').textContent = data.length;
+                const signatureList = document.getElementById('signatures');
+                signatureList.innerHTML = ''; // Vider la liste existante
+                data.forEach((signature, index) => {
+                    const li = document.createElement('li');
+                    li.textContent = `${index + 1}. ${signature.name}`;
+                    signatureList.appendChild(li);
                 });
-        }
+                document.getElementById('signatureCount').textContent = data.length;
+            });
+    }
 
-        // Charger les signatures au démarrage
-        fetchSignatures();
-    </script>
+    // Charger les signatures au démarrage
+    fetchSignatures();
+</script>
+
 
 </body>
 </html>
