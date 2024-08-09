@@ -28,49 +28,7 @@ Dans l'attente de votre réponse et dans l'espoir d'une action rapide, nous vous
 
 **Yanis Bendjelal, le Président du CIREM**
 
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lettre ouverte à M. Frédéric Valletoux</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 16px;
-            line-height: 1.6;
-        }
-        h1 {
-            text-align: center;
-            margin-bottom: 16px;
-        }
-        .letter {
-            margin-bottom: 40px;
-        }
-        form {
-            margin-bottom: 20px;
-        }
-        label, input {
-            display: block;
-            margin-bottom: 10px;
-        }
-        button {
-            padding: 10px 15px;
-            background-color: #4CAF50;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #45a049;
-        }
-        .signatures {
-            margin-top: 30px;
-        }
-        .signature-count {
-            font-weight: bold;
-        }
-    </style>
-</head>
+
     <form id="signatureForm">
         <label for="name">Nom :</label>
         <input type="text" id="name" name="name" required>
