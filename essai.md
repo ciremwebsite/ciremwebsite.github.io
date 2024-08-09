@@ -14,9 +14,10 @@ show_in_navigation: false
     <link rel="stylesheet" href="https://ciremwebsite.github.io/assets/css/style.css">
     <style>
         /* Styles supplémentaires spécifiques à cette page */
-        .letter p {
-            margin-bottom: 15px;
-            font-size: 1rem;
+    .letter p {
+        font-size: 1.2rem; /* Ajustez cette taille si nécessaire pour correspondre à "NOM" */
+        margin-bottom: 15px;
+        line-height: 1.6;
         }
         form {
             margin-top: 30px;
