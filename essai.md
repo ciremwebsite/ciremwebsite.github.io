@@ -6,8 +6,6 @@ large_header: false
 show_in_navigation: false
 ---
 
-
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -16,12 +14,12 @@ show_in_navigation: false
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin: 16px;
             line-height: 1.6;
         }
         h1 {
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 16px;
         }
         .letter {
             margin-bottom: 40px;
@@ -53,7 +51,7 @@ show_in_navigation: false
 </head>
 <body>
 
-    <h1>Lettre ouverte à M. Frédéric Valletoux, Ministre de la Santé</h1>
+    <h3>Lettre ouverte à M. Frédéric Valletoux, Ministre de la Santé</h3>
 
     <div class="letter">
         <p><strong>À Paris, le 9 août 2024</strong></p>
