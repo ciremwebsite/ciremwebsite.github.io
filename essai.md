@@ -1,3 +1,12 @@
+---
+title: Essai
+call_to_action: Contact
+background_image_path:
+large_header: false
+show_in_navigation: false
+---
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
