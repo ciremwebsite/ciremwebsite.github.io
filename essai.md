@@ -1,5 +1,5 @@
 ---
-title: Essai
+title: Lettre ouverte à M. Frédéric Valletoux, Ministre de la Santé
 call_to_action: Contact
 background_image_path:
 large_header: false
