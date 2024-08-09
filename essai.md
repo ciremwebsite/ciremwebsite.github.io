@@ -15,7 +15,7 @@ show_in_navigation: false
     <style>
         /* Styles supplémentaires spécifiques à cette page */
     .letter p {
-        font-size: 1.2rem; /* Ajustez cette taille si nécessaire pour correspondre à "NOM" */
+        font-size: 1.5rem; /* Ajustez cette taille si nécessaire pour correspondre à "NOM" */
         margin-bottom: 15px;
         line-height: 1.6;
         }
