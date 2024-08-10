@@ -7,6 +7,8 @@ show_in_navigation: true
 navigation_order: 1
 ---
 
+<br><br>
+
 ### Août 2024 - Négociation des postes ouverts en Internat pour la rentrée 2024
 
 Face à une réduction alarmante des places d'internat hors médecine générale pour la prochaine rentrée, le Collectif Interfacultaire Représentant les Externes en Médecine (CIREM) s'inquiète des conséquences pour l'avenir de la médecine spécialisée en France.   
