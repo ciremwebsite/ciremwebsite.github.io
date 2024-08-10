@@ -7,7 +7,7 @@ show_in_navigation: true
 navigation_order: 1
 ---
 
-<br><br>
+<br>
 
 ### Août 2024 - Négociation des postes ouverts en Internat pour la rentrée 2024
 
