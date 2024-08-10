@@ -91,6 +91,7 @@ show_in_navigation: false
                 Dans l'attente de votre réponse et dans l'espoir d'une action rapide, nous vous prions d'agréer, Monsieur le Ministre, l'expression de notre haute considération.
             </p>
             <p><strong>Le Président du CIREM</strong></p>
+            <p><strong>Yanis Bendjelal</strong></p>
         </div>
 
         <form id="signatureForm">
