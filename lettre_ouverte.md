@@ -95,7 +95,7 @@ show_in_navigation: false
         </div>
 
         <form id="signatureForm">
-            <label for="name">Nom :</label>
+            <label for="name">Prénom et Nom :</label>
             <input type="text" id="name" name="name" required>
             
             <label for="email">Email :</label>
