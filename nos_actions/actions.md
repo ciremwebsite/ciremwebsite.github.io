@@ -7,7 +7,7 @@ show_in_navigation: true
 navigation_order: 1
 ---
 
-<br>
+Cette section présente les différentes actions de notre collectif.
 
 ### Août 2024 - Négociation des postes ouverts en Internat pour la rentrée 2024
 
