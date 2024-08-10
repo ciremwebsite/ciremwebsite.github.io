@@ -1,5 +1,5 @@
 ---
-title: Lettre ouverte à M. Frédéric Valletoux, Ministre de la Santé
+title: Lettre ouverte à M. Frédéric Valletoux, Ministre de la Santé, et à l’ensemble des directions des Agences Régionales de Santé
 call_to_action: Contact
 background_image_path:
 large_header: false
@@ -79,10 +79,10 @@ show_in_navigation: false
                 En outre, il convient de rappeler que la charge de travail imposée aux internes dépasse aujourd'hui largement le cadre légal. L'État a été condamné par le Conseil d'état pour la mauvaise comptabilisation des heures de travail des internes, et il a été mis en demeure de respecter le temps de travail légal, sans que cela ne soit suivi d'effets concrets. La réduction de 15 % des effectifs ne fera qu'accentuer les tensions dans les spécialités déjà sous-dotées, au détriment direct des patients. Il est également impératif de souligner la gravité de la situation en matière de santé mentale des internes : selon l'ISNI, un interne se suicide tous les 18 jours, et 4 % ont déjà fait une tentative de suicide. Ces chiffres alarmants ne peuvent être ignorés.
             </p>
             <p>
-                De plus, il est essentiel de noter qu'aucune concertation collective n'a été menée avec les étudiants de notre promotion, qui ont découvert avec stupeur cette réduction de 15 % des places hors spécialités, imposée sans préavis. Cette décision unilatérale ne tient pas compte des réalités du terrain ni des besoins des futurs praticiens et de leurs patients.
+                De plus, il est essentiel de noter qu'aucune concertation collective n'a été menée avec les étudiants de notre promotion, qui ont découvert avec stupeur cette réduction de 15 % des places hors spécialités, imposée sans préavis. Cette décision unilatérale ne tient pas compte des réalités du terrain ni des besoins des futurs praticiens et de leurs patients, et ne fera à terme qu’aggraver le manque d’attractivité des postes hospitaliers soumis à un flux de patients décorrélé du nombre de praticiens de spécialité en mesure de les accueillir. L’effectif de notre promotion est connu depuis désormais plus d’un an. Il semble inconsidéré d’allouer, en quelques semaines et sans dialogue, des postes aussi peu en lien avec les nécessités de santé territoriaux, et faisant fi de l’engagement d’étudiants qui ont fait les frais d’une première année d’une réforme particulièrement chaotique, en pleine période de COVID.
             </p>
             <p>
-                Face à ces constats, nous vous demandons respectueusement, Monsieur le Ministre, de bien vouloir nous accorder une rencontre, ainsi qu'avec les directions générales des Agences Régionales de Santé (ARS), afin de discuter d'une redistribution urgente des postes disponibles. Nous insistons pour que cette réunion ait lieu avant la fin du mois d'août, et avant l'étape de simulation définitive, afin de pouvoir réévaluer la répartition des postes et répondre aux besoins actuels et futurs de notre système de santé, garantissant ainsi à la population française un accès égalitaire et de qualité aux soins spécialisés.
+                Face à ces constats, nous vous demandons respectueusement, Monsieur le Ministre, de bien vouloir nous accorder une rencontre, ainsi qu'avec les directions générales des Agences Régionales de Santé (ARS), afin de discuter d'une redistribution urgente des postes disponibles. Nous insistons pour que cette réunion ait lieu avant la fin du mois d'août, et avant l'étape d’appariement définitif, afin de pouvoir réévaluer la répartition des postes et répondre aux besoins actuels et futurs de notre système de santé, garantissant ainsi à la population française un accès égalitaire et de qualité aux soins spécialisés.
             </p>
             <p>
                 Le CIREM se tient à votre disposition pour engager un dialogue constructif sur ces questions cruciales pour l'avenir de notre système de santé.
