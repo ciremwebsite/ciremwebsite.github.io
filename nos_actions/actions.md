@@ -19,7 +19,6 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 **La presse en parle**
 
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
