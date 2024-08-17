@@ -115,6 +115,11 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
   Interview de Philippe Juvin, député et chef du service des urgences
 </a> 
   </p>
+    <p> 
+      <a href="https://www.bfmtv.com/replay-emissions/le-live-bfm/internes-postes-supprimes-soignants-furieux-17-08_VN-202408170154.html?fbclid=IwY2xjawEtUWtleHRuA2FlbQIxMAABHcf6v3HFybLanTsxCCxm17EBYObBNJJ009M_3gotg65NiTS5vjWacjzjrg_aem_kKYTmsaFO2YhXsjJ8SQwRw">
+  Interview de Marine Loty, présidente du Syndicat des Internes des Hôpitaux de Paris (SIHP)
+     </a> 
+  </p>
 </div>
 
 <script>
