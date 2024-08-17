@@ -20,7 +20,6 @@ Vous trouverez ici un détail complet de nos revenus et dépenses, incluant les 
     <title>Comptabilité</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
         }
         .container {
             max-width: 1200px;
