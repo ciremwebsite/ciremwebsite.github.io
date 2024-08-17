@@ -15,7 +15,7 @@ Face à une réduction alarmante des places d'internat hors médecine générale
 En pleine crise de la médecine hospitalière, il est crucial d'augmenter le nombre de spécialistes pour répondre aux besoins de santé publique.   
 C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et les directeurs des ARS, et publie une lettre ouverte pour soutenir cette démarche. Signez-la et partagez-la au maximum autour de vous.
 
-**Voici [la lettre](https://ciremwebsite.github.io/lettre_ouverte/).**
+**Cliquez ici pour [signer la lettre](https://ciremwebsite.github.io/lettre_ouverte/).**
 
 **La presse en parle**
 
