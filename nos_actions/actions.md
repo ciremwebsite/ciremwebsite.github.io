@@ -116,6 +116,16 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
     </p>
 </div>
 
+
+<button class="accordion">BFM RMC</button>
+<div class="panel">
+    <p> 
+        <a href="https://rmc.bfmtv.com/actualites/societe/sante/hopital-1-500-postes-d-internes-en-moins-a-la-rentree-les-services-de-sante-confrontes-a-une-nouvelle-difficulte_AV-202408170141.html?fbclid=IwY2xjawEtWa1leHRuA2FlbQIxMAABHWVcsdEB85nnqthK0PYSwkAlMHQ-I1hvrULUngbmEQCIbFDHOXuSNEihaQ_aem_PrRkYK0_rTnaqOBSta2xUg">
+          Hôpital: 1.500 postes d'internes en moins à la rentrée, les services de santé confrontés à une nouvelle difficulté
+        </a> 
+    </p>
+</div>
+
 <script>
     var acc = document.getElementsByClassName("accordion");
     var i;
