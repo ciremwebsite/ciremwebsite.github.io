@@ -73,11 +73,18 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
   <a href="https://www.lefigaro.fr/actualite-france/hopital-public-la-fronde-des-futurs-internes-face-a-la-baisse-du-nombre-de-postes-ouverts-20240814?fbclid=IwY2xjawEtU4JleHRuA2FlbQIxMAABHTn-Z0vjcmYtDBEtNINwWc0yg4RioUWEA689uPSiHmUBLopMO5ivhUoAQA_aem_LlWZ6X4z3nHHZSJYk9eEpw">Hôpital public : la fronde des futurs internes face à la baisse du nombre de postes ouverts</a>
 </div>
 
-
-
-<button class="accordion">En dev</button>
+<button class="accordion">France Info</button>
 <div class="panel">
-  <p>ddd.</p>
+    <p> 
+        <a href="https://www.francetvinfo.fr/sante/hopital/1-500-internes-en-moins-cette-annee-ca-impliquera-forcement-une-nouvelle-charge-de-travail-previent-l-intersyndicale-nationale-des-internes_6728100.html">
+          1 500 internes en moins cette année : "Ça impliquera forcément une nouvelle charge de travail", prévient l'Intersyndicale nationale des internes
+        </a> 
+    </p>
+    <p> 
+        <a href="https://www.francetvinfo.fr/sante/hopital/1-500-internes-en-moins-cette-annee-ca-impliquera-forcement-une-nouvelle-charge-de-travail-previent-l-intersyndicale-nationale-des-internes_6728100.html">
+          La baisse du nombre de postes d'internes "aura un impact" sur l'hôpital public, insiste le syndicat Samu Urgences de France
+        </a> 
+    </p>
 </div>
 
 <button class="accordion">En dev</button>
@@ -112,16 +119,16 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 <button class="accordion">BFM TV</button>
 <div class="panel">
-  <p> 
-      <a href="https://www.bfmtv.com/politique/philippe-juvin-depute-droite-republicaine-et-chef-du-service-des-urgences-notre-systeme-de-formation-des-medecins-n-est-pas-adapte-en-quantite_VN-202408170083.html?fbclid=IwY2xjawEtUXBleHRuA2FlbQIxMAABHTYU7oJsw4bSL_bDsJojiU_ntf5ZOg1oK5fRCfSbhhYR8yFdenIxR5LkIQ_aem_knv7EVPuP6VMKGFFcV3oIQ">
-  Interview de Philippe Juvin, député et chef du service des urgences
-</a> 
-  </p>
     <p> 
-      <a href="https://www.bfmtv.com/replay-emissions/le-live-bfm/internes-postes-supprimes-soignants-furieux-17-08_VN-202408170154.html?fbclid=IwY2xjawEtUWtleHRuA2FlbQIxMAABHcf6v3HFybLanTsxCCxm17EBYObBNJJ009M_3gotg65NiTS5vjWacjzjrg_aem_kKYTmsaFO2YhXsjJ8SQwRw">
-  Interview de Marine Loty, présidente du Syndicat des Internes des Hôpitaux de Paris (SIHP)
-     </a> 
-  </p>
+        <a href="https://www.bfmtv.com/politique/philippe-juvin-depute-droite-republicaine-et-chef-du-service-des-urgences-notre-systeme-de-formation-des-medecins-n-est-pas-adapte-en-quantite_VN-202408170083.html?fbclid=IwY2xjawEtUXBleHRuA2FlbQIxMAABHTYU7oJsw4bSL_bDsJojiU_ntf5ZOg1oK5fRCfSbhhYR8yFdenIxR5LkIQ_aem_knv7EVPuP6VMKGFFcV3oIQ">
+          Interview de Philippe Juvin, député et chef du service des urgences
+        </a> 
+    </p>
+    <p> 
+        <a href="https://www.bfmtv.com/replay-emissions/le-live-bfm/internes-postes-supprimes-soignants-furieux-17-08_VN-202408170154.html?fbclid=IwY2xjawEtUWtleHRuA2FlbQIxMAABHcf6v3HFybLanTsxCCxm17EBYObBNJJ009M_3gotg65NiTS5vjWacjzjrg_aem_kKYTmsaFO2YhXsjJ8SQwRw">
+          Interview de Marine Loty, présidente du Syndicat des Internes des Hôpitaux de Paris (SIHP)
+        </a> 
+    </p>
 </div>
 
 <script>
