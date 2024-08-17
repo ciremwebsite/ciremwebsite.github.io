@@ -99,6 +99,7 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
         <a href="https://www.whatsupdoc-lemag.fr/article/trop-peu-dinternes-la-rentree-la-promo-crash-test-exige-louverture-de-postes">
           Trop peu d’internes à la rentrée : la « promo crash-test » exige l’ouverture de postes supplémentaires d’urgence
         </a> 
+    </p>
 </div>
 
 <button class="accordion">BFM TV</button>
