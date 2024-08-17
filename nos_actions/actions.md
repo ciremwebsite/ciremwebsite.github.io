@@ -83,6 +83,36 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
   <p>En dev.</p>
 </div>
 
+<button class="accordion">En dev</button>
+<div class="panel">
+  <p>En dev.</p>
+</div>
+
+<button class="accordion">En dev</button>
+<div class="panel">
+  <p>En dev.</p>
+</div>
+
+<button class="accordion">En dev</button>
+<div class="panel">
+  <p>En dev.</p>
+</div>
+
+<button class="accordion">En dev</button>
+<div class="panel">
+  <p>En dev.</p>
+</div>
+
+<button class="accordion">En dev</button>
+<div class="panel">
+  <p>En dev.</p>
+</div>
+
+<button class="accordion">BFM TV</button>
+<div class="panel">
+  <p> < a href="https://www.bfmtv.com/politique/philippe-juvin-depute-droite-republicaine-et-chef-du-service-des-urgences-notre-systeme-de-formation-des-medecins-n-est-pas-adapte-en-quantite_VN-202408170083.html?fbclid=IwY2xjawEtUXBleHRuA2FlbQIxMAABHTYU7oJsw4bSL_bDsJojiU_ntf5ZOg1oK5fRCfSbhhYR8yFdenIxR5LkIQ_aem_knv7EVPuP6VMKGFFcV3oIQ" > Interview de Philippe Juvine, député et chef du service des urgences < /a > </p>
+</div>
+
 <script>
     var acc = document.getElementsByClassName("accordion");
     var i;
