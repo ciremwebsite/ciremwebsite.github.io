@@ -26,33 +26,34 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
     <title>Accordéon Exemple</title>
     <style>
         .accordion {
-            background-color: #eee;
-            color: #444;
-            cursor: pointer;
-            padding: 18px;
-            width: 100%;
-            border: none;
-            text-align: left;
-            outline: none;
-            font-size: 15px;
-            transition: 0.4s;
-        }
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
 
-        .active, .accordion:hover {
-            background-color: #ccc;
-        }
+.accordion.active, .accordion:hover {
+    background-color: #ccc;
+}
 
-        .accordion:after {
-            content: '\002B'; /* Unicode character for "plus" sign (+) */
-            color: #777;
-            font-weight: bold;
-            float: right;
-            margin-left: 5px;
-        }
+.accordion::after {
+    content: '\002B'; /* Unicode character for "plus" sign (+) */
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
 
-        .active:after {
-            content: "\2212"; /* Unicode character for "minus" sign (-) */
-        }
+.accordion.active::after {
+    content: "\2212"; /* Unicode character for "minus" sign (-) */
+}
+
 
         .panel {
             padding: 0 18px;
