@@ -68,10 +68,12 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 #### la presse en parle
 
-<button class="accordion">Édition 2024-2025</button>
+<button class="accordion">Le Figaro</button>
 <div class="panel">
-  <a href="#">Le Figaro</a>
+  <a href="https://www.lefigaro.fr/actualite-france/hopital-public-la-fronde-des-futurs-internes-face-a-la-baisse-du-nombre-de-postes-ouverts-20240814?fbclid=IwY2xjawEtU4JleHRuA2FlbQIxMAABHTn-Z0vjcmYtDBEtNINwWc0yg4RioUWEA689uPSiHmUBLopMO5ivhUoAQA_aem_LlWZ6X4z3nHHZSJYk9eEpw">Hôpital public : la fronde des futurs internes face à la baisse du nombre de postes ouverts</a>
 </div>
+
+
 
 <button class="accordion">En dev</button>
 <div class="panel">
