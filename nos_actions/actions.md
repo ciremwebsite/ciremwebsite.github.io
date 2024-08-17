@@ -90,6 +90,7 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
         <a href="https://www.ouest-france.fr/sante/dans-les-hopitaux-le-nombre-dinternes-en-medecine-seffondre-904c78be-58b6-11ef-9a12-58a3dd767213">
           Dans les hôpitaux, le nombre d’internes en médecine s’effondre
         </a> 
+    </p>
 </div>
 
 <button class="accordion">What's Up Doc</button>
