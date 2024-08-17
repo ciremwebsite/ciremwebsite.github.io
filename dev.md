@@ -6,6 +6,8 @@ large_header: false
 show_in_navigation: false
 ---
 
+### La presse en parle
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -52,7 +54,7 @@ show_in_navigation: false
 </head>
 <body>
 
-<h2>Guides des double-cursus et de la recherche scientifique</h2>
+#### la presse en parle
 
 <button class="accordion">Édition 2024-2025</button>
 <div class="panel">
