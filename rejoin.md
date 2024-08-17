@@ -2,7 +2,7 @@
 title: Nous rejoindre
 call_to_action: Contact
 background_image_path:
-large_header: true
+large_header: false
 show_in_navigation: true
 navigation_order: 3
 ---
