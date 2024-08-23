@@ -68,14 +68,15 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 <button class="accordion">Le Figaro</button>
 <div class="panel">
-        <p> 
-  <a href="https://www.lefigaro.fr/actualite-france/hopital-public-la-fronde-des-futurs-internes-face-a-la-baisse-du-nombre-de-postes-ouverts-20240814?fbclid=IwY2xjawEtU4JleHRuA2FlbQIxMAABHTn-Z0vjcmYtDBEtNINwWc0yg4RioUWEA689uPSiHmUBLopMO5ivhUoAQA_aem_LlWZ6X4z3nHHZSJYk9eEpw">Hôpital public : la fronde des futurs internes face à la baisse du nombre de postes ouverts</a>
     <p> 
+  <a href="https://www.lefigaro.fr/actualite-france/hopital-public-la-fronde-des-futurs-internes-face-a-la-baisse-du-nombre-de-postes-ouverts-20240814?fbclid=IwY2xjawEtU4JleHRuA2FlbQIxMAABHTn-Z0vjcmYtDBEtNINwWc0yg4RioUWEA689uPSiHmUBLopMO5ivhUoAQA_aem_LlWZ6X4z3nHHZSJYk9eEpw">Hôpital public : la fronde des futurs internes face à la baisse du nombre de postes ouverts
+        </a> 
+    </p>
     <p> 
         <a href="https://www.lefigaro.fr/economie/on-est-en-train-de-vivre-une-injustice-monstrueuse-le-grand-desarroi-des-internes-face-au-mutisme-de-l-executif-20240820?fbclid=IwY2xjawE1QNpleHRuA2FlbQIxMAABHVeSRZKnzHCgpSBaN2QQsOSa7xACy_GG4Lv4NLVrBj35jPHgMSxyMlc-_w_aem_9WJdWhysU9Fd9TcbanXtSA">
           «Notre promo est sacrifiée»: la colère des nouveaux internes de l'hôpital face au silence du gouvernement
         </a> 
-    <p> 
+    </p>
 </div>
 
 <button class="accordion">Le Parisien</button>
