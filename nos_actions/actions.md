@@ -68,7 +68,19 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 <button class="accordion">Le Figaro</button>
 <div class="panel">
+        <p> 
   <a href="https://www.lefigaro.fr/actualite-france/hopital-public-la-fronde-des-futurs-internes-face-a-la-baisse-du-nombre-de-postes-ouverts-20240814?fbclid=IwY2xjawEtU4JleHRuA2FlbQIxMAABHTn-Z0vjcmYtDBEtNINwWc0yg4RioUWEA689uPSiHmUBLopMO5ivhUoAQA_aem_LlWZ6X4z3nHHZSJYk9eEpw">Hôpital public : la fronde des futurs internes face à la baisse du nombre de postes ouverts</a>
+    <p> 
+    <p> 
+        <a href="https://www.lefigaro.fr/economie/on-est-en-train-de-vivre-une-injustice-monstrueuse-le-grand-desarroi-des-internes-face-au-mutisme-de-l-executif-20240820?fbclid=IwY2xjawE1QNpleHRuA2FlbQIxMAABHVeSRZKnzHCgpSBaN2QQsOSa7xACy_GG4Lv4NLVrBj35jPHgMSxyMlc-_w_aem_9WJdWhysU9Fd9TcbanXtSA">
+          «Notre promo est sacrifiée»: la colère des nouveaux internes de l'hôpital face au silence du gouvernement
+        </a> 
+    <p> 
+</div>
+
+<button class="accordion">Le Parisien</button>
+<div class="panel">
+  <a href="https://www.leparisien.fr/etudiant/etudes/universites/reduction-des-postes-dinternat-pour-les-etudiants-en-medecine-a-moins-dun-miracle-ma-specialite-je-ne-laurai-pas-VXGRRRB5DRCSFIIFKMWNAUTSBY.php?s=09&fbclid=IwY2xjawE1QAZleHRuA2FlbQIxMAABHRiT5v1ryDCla4G7fuu39uS98d6hpqaNav_T40_6Ei0IIYi7yTbLzUc1UA_aem_c7MEuhZhnwO8Q4RgW3ckdA">Réduction des postes d’internat pour les étudiants en médecine : « À moins d’un miracle, ma spécialité, je ne l’aurai pas »</a>
 </div>
 
 <button class="accordion">France Info</button>
@@ -123,6 +135,16 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
     <p> 
         <a href="https://rmc.bfmtv.com/actualites/societe/sante/hopital-1-500-postes-d-internes-en-moins-a-la-rentree-les-services-de-sante-confrontes-a-une-nouvelle-difficulte_AV-202408170141.html?fbclid=IwY2xjawEtWa1leHRuA2FlbQIxMAABHWVcsdEB85nnqthK0PYSwkAlMHQ-I1hvrULUngbmEQCIbFDHOXuSNEihaQ_aem_PrRkYK0_rTnaqOBSta2xUg">
           Hôpital: 1.500 postes d'internes en moins à la rentrée, les services de santé confrontés à une nouvelle difficulté
+        </a> 
+    </p>
+</div>
+
+
+<button class="accordion">Marianne</button>
+<div class="panel">
+    <p> 
+        <a href="https://www.marianne.net/societe/sante/cest-la-premiere-fois-de-ma-vie-que-je-fais-ca-helene-l-interne-sacrifiee-a-l-origine-de-la-petition?fbclid=IwY2xjawE1P6lleHRuA2FlbQIxMAABHdvcq9S1KiS9HXNvsNvvjhuugZ8WkzEph7bwuyEiJb93O7ae27Qoy10oUQ_aem_b2ZLEhzjvU20MelX6hbHDw">
+          "C’est la première fois de ma vie que je fais ça" : Hélène, l'interne "sacrifiée", à l'origine de la pétition
         </a> 
     </p>
 </div>
