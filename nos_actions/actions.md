@@ -67,9 +67,16 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 <button class="accordion">Dr. Yannick Neuder, député, rapporteur général de la loi sur la Sécurité Sociale 2025</button>
 <div class="panel">
+       <p> 
     <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">(…) Sur la question des postes d’<a href="https://twitter.com/hashtag/internes?src=hash&amp;ref_src=twsrc%5Etfw">#internes</a> non renouvelés, il s’agit d’une nouvelle goutte qui fait déborder le vase, résultat d’une succession de réformes mal faites et précipitées. Je comprends totalement ces étudiants, qui décident d’une spécialité dont laquelle dépendra leur… <a href="https://t.co/Gd4a9BkEKs">https://t.co/Gd4a9BkEKs</a></p>&mdash; Dr. Yannick Neuder (@yannickneuder) <a href="https://twitter.com/yannickneuder/status/1826667249958015261?ref_src=twsrc%5Etfw">August 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+        </p>
+    <p> 
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Cette baisse du nombre de postes d’internes n’est que le résultat d’une détresse des étudiants en médecine face une réforme de l’accès au 3e cycle qui atterrit mal. J’avais d’ailleurs écrit au ministre de la santé plus tôt cette année au sujet des nouveaux ECOS qui ont généré… <a href="https://t.co/g7G5S2nH4Q">https://t.co/g7G5S2nH4Q</a></p>&mdash; Dr. Yannick Neuder (@yannickneuder) <a href="https://twitter.com/yannickneuder/status/1824770505770934289?ref_src=twsrc%5Etfw">August 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+            </p>
 </div>
 
+
+<br>
 <b>La presse en parle</b>
 
 <button class="accordion">Le Figaro</button>
