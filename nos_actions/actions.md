@@ -172,7 +172,9 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 <button class="accordion">Le Parisien</button>
 <div class="panel">
+        <p> 
   <a href="https://www.leparisien.fr/etudiant/etudes/universites/reduction-des-postes-dinternat-pour-les-etudiants-en-medecine-a-moins-dun-miracle-ma-specialite-je-ne-laurai-pas-VXGRRRB5DRCSFIIFKMWNAUTSBY.php?s=09&fbclid=IwY2xjawE1QAZleHRuA2FlbQIxMAABHRiT5v1ryDCla4G7fuu39uS98d6hpqaNav_T40_6Ei0IIYi7yTbLzUc1UA_aem_c7MEuhZhnwO8Q4RgW3ckdA">Réduction des postes d’internat pour les étudiants en médecine : « À moins d’un miracle, ma spécialité, je ne l’aurai pas »</a>
+    <p> 
 </div>
 
 <button class="accordion">France Info</button>
