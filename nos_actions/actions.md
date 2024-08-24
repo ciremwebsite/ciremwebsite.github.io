@@ -19,6 +19,7 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 **Les politiques en parlent**
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -26,34 +27,33 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
     <title>Accordéon Exemple</title>
     <style>
         .accordion {
-    background-color: #eee;
-    color: #444;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
-    transition: 0.4s;
-}
+            background-color: #eee;
+            color: #444;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+            transition: 0.4s;
+        }
 
-.accordion.active, .accordion:hover {
-    background-color: #ccc;
-}
+        .accordion.active, .accordion:hover {
+            background-color: #ccc;
+        }
 
-.accordion::after {
-    content: '\002B'; /* Unicode character for "plus" sign (+) */
-    color: #777;
-    font-weight: bold;
-    float: right;
-    margin-left: 5px;
-}
+        .accordion::after {
+            content: '\002B'; /* Unicode character for "plus" sign (+) */
+            color: #777;
+            font-weight: bold;
+            float: right;
+            margin-left: 5px;
+        }
 
-.accordion.active::after {
-    content: "\2212"; /* Unicode character for "minus" sign (-) */
-}
-
+        .accordion.active::after {
+            content: "\2212"; /* Unicode character for "minus" sign (-) */
+        }
 
         .panel {
             padding: 0 18px;
@@ -68,15 +68,16 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 <button class="accordion">Dr. Yannick Neuder, député, rapporteur général de la loi sur la Sécurité Sociale 2025</button>
 <div class="panel">
-    <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">(…) Sur la question des postes d’<a href="https://twitter.com/hashtag/internes?src=hash&amp;ref_src=twsrc%5Etfw">#internes</a> non renouvelés, il s’agit d’une nouvelle goutte qui fait déborder le vase, résultat d’une succession de réformes mal faites et précipitées. Je comprends totalement ces étudiants, qui décident d’une spécialité dont laquelle dépendra leur… <a href="https://t.co/Gd4a9BkEKs">https://t.co/Gd4a9BkEKs</a></p>&mdash; Dr. Yannick Neuder (@yannickneuder) <a href="https://twitter.com/yannickneuder/status/1826667249958015261?ref_src=twsrc%5Etfw">August 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+    <blockquote class="twitter-tweet">
+        <p lang="fr" dir="ltr">(…) Sur la question des postes d’<a href="https://twitter.com/hashtag/internes?src=hash&amp;ref_src=twsrc%5Etfw">#internes</a> non renouvelés, il s’agit d’une nouvelle goutte qui fait déborder le vase, résultat d’une succession de réformes mal faites et précipitées. Je comprends totalement ces étudiants, qui décident d’une spécialité dont laquelle dépendra leur… <a href="https://t.co/Gd4a9BkEKs">https://t.co/Gd4a9BkEKs</a></p>&mdash; Dr. Yannick Neuder (@yannickneuder) <a href="https://twitter.com/yannickneuder/status/1826667249958015261?ref_src=twsrc%5Etfw">August 22, 2024</a>
+    </blockquote>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
     <p> 
         <a href="https://www.bfmtv.com/replay-emissions/le-live-bfm/internes-postes-supprimes-soignants-furieux-17-08_VN-202408170154.html?fbclid=IwY2xjawEtUWtleHRuA2FlbQIxMAABHcf6v3HFybLanTsxCCxm17EBYObBNJJ009M_3gotg65NiTS5vjWacjzjrg_aem_kKYTmsaFO2YhXsjJ8SQwRw">
           Interview de Marine Loty, présidente du Syndicat des Internes des Hôpitaux de Paris (SIHP)
         </a> 
     </p>
 </div>
-
-
 
 <button class="accordion">Marianne</button>
 <div class="panel">
