@@ -104,23 +104,19 @@ show_in_navigation: false
             <button type="submit">Signer la Lettre</button>
         </form>
 
-        <div class="signatures">
-            <p>Nombre de signatures : <span id="signatureCount">0</span></p>
-            <ul id="signatures"></ul>
-        </div>
-    </div>
+ <div class="signatures">
+    <p>Nombre de signatures : <span id="signatureCount">Chargement...</span></p>
+    <ul id="signatures"></ul>
+</div>
 
- <script>
-    // Utilisation correcte de l'URL de base de votre backend
+<script>
     const backendUrl = 'https://graceful-frost-bow.glitch.me'; // URL de votre serveur Node.js
 
-    // Gestion de la soumission du formulaire
     document.getElementById('signatureForm').onsubmit = function(e) {
         e.preventDefault();
         const name = document.getElementById('name').value;
         const email = document.getElementById('email').value;
         
-        // Envoi de la requête POST pour ajouter une nouvelle signature
         fetch(`${backendUrl}/signatures`, {
             method: 'POST',
             headers: {
@@ -137,12 +133,10 @@ show_in_navigation: false
             console.error('Error:', error);
         });
 
-        // Réinitialiser le formulaire après soumission
         document.getElementById('name').value = '';
         document.getElementById('email').value = '';
     }
 
-    // Fonction pour récupérer et afficher les signatures
     function fetchSignatures() {
         fetch(`${backendUrl}/signatures`)
             .then(response => response.json())
@@ -155,10 +149,12 @@ show_in_navigation: false
                     signatureList.appendChild(li);
                 });
                 document.getElementById('signatureCount').textContent = data.length;
+            })
+            .catch(() => {
+                document.getElementById('signatureCount').textContent = 'Erreur lors du chargement';
             });
     }
 
-    // Charger les signatures au démarrage
     fetchSignatures();
 </script>
 
