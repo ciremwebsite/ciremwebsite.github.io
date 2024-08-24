@@ -69,7 +69,7 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 <button class="accordion">Dr. Yannick Neuder, député, rapporteur général de la loi sur la Sécurité Sociale 2025</button>
 <div class="panel">
-    <p>Essai</p>
+    <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">(…) Sur la question des postes d’<a href="https://twitter.com/hashtag/internes?src=hash&amp;ref_src=twsrc%5Etfw">#internes</a> non renouvelés, il s’agit d’une nouvelle goutte qui fait déborder le vase, résultat d’une succession de réformes mal faites et précipitées. Je comprends totalement ces étudiants, qui décident d’une spécialité dont laquelle dépendra leur… <a href="https://t.co/Gd4a9BkEKs">https://t.co/Gd4a9BkEKs</a></p>&mdash; Dr. Yannick Neuder (@yannickneuder) <a href="https://twitter.com/yannickneuder/status/1826667249958015261?ref_src=twsrc%5Etfw">August 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 
 <h2>La presse en parle</h2>
