@@ -17,6 +17,96 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 
 **Cliquez ici pour [signer la lettre](https://ciremwebsite.github.io/lettre_ouverte/).**
 
+**Les politiques en parlent**
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accordéon Exemple</title>
+    <style>
+        .accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+.accordion.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.accordion::after {
+    content: '\002B'; /* Unicode character for "plus" sign (+) */
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.accordion.active::after {
+    content: "\2212"; /* Unicode character for "minus" sign (-) */
+}
+
+
+        .panel {
+            padding: 0 18px;
+            background-color: white;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+        }
+    </style>
+</head>
+<body>
+
+<button class="accordion">Dr. Yannick Neuder, député, rapporteur général de la loi sur la Sécurité Sociale 2025</button>
+<div class="panel">
+    <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">(…) Sur la question des postes d’<a href="https://twitter.com/hashtag/internes?src=hash&amp;ref_src=twsrc%5Etfw">#internes</a> non renouvelés, il s’agit d’une nouvelle goutte qui fait déborder le vase, résultat d’une succession de réformes mal faites et précipitées. Je comprends totalement ces étudiants, qui décident d’une spécialité dont laquelle dépendra leur… <a href="https://t.co/Gd4a9BkEKs">https://t.co/Gd4a9BkEKs</a></p>&mdash; Dr. Yannick Neuder (@yannickneuder) <a href="https://twitter.com/yannickneuder/status/1826667249958015261?ref_src=twsrc%5Etfw">August 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+    <p> 
+        <a href="https://www.bfmtv.com/replay-emissions/le-live-bfm/internes-postes-supprimes-soignants-furieux-17-08_VN-202408170154.html?fbclid=IwY2xjawEtUWtleHRuA2FlbQIxMAABHcf6v3HFybLanTsxCCxm17EBYObBNJJ009M_3gotg65NiTS5vjWacjzjrg_aem_kKYTmsaFO2YhXsjJ8SQwRw">
+          Interview de Marine Loty, présidente du Syndicat des Internes des Hôpitaux de Paris (SIHP)
+        </a> 
+    </p>
+</div>
+
+
+
+<button class="accordion">Marianne</button>
+<div class="panel">
+    <p> 
+        <a href="https://www.marianne.net/societe/sante/cest-la-premiere-fois-de-ma-vie-que-je-fais-ca-helene-l-interne-sacrifiee-a-l-origine-de-la-petition?fbclid=IwY2xjawE1P6lleHRuA2FlbQIxMAABHdvcq9S1KiS9HXNvsNvvjhuugZ8WkzEph7bwuyEiJb93O7ae27Qoy10oUQ_aem_b2ZLEhzjvU20MelX6hbHDw">
+          "C’est la première fois de ma vie que je fais ça" : Hélène, l'interne "sacrifiée", à l'origine de la pétition
+        </a> 
+    </p>
+</div>
+
+<script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var panel = this.nextElementSibling;
+            if (panel.style.maxHeight) {
+                panel.style.maxHeight = null;
+            } else {
+                panel.style.maxHeight = panel.scrollHeight + "px";
+            } 
+        });
+    }
+</script>
+
+</body>
+</html>
+
 **La presse en parle**
 
 <html lang="en">
