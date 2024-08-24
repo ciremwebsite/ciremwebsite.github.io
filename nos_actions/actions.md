@@ -15,9 +15,8 @@ Face à une réduction alarmante des places d'internat hors médecine générale
 En pleine crise de la médecine hospitalière, il est crucial d'augmenter le nombre de spécialistes pour répondre aux besoins de santé publique.   
 C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et les directeurs des ARS, et publie une lettre ouverte pour soutenir cette démarche. Signez-la et partagez-la au maximum autour de vous.
 
-**Cliquez ici pour [signer la lettre](https://ciremwebsite.github.io/lettre_ouverte/).**
+<strong>Cliquez ici pour [signer la lettre](https://ciremwebsite.github.io/lettre_ouverte/).<strong>
 
-**Les politiques en parlent**
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,14 +64,14 @@ C'est pourquoi le CIREM appelle à une réunion avec le Ministre de la Santé et
 </head>
 <body>
 
-<h2>Les politiques en parlent</h2>
+</b>Les politiques en parlent</b>
 
 <button class="accordion">Dr. Yannick Neuder, député, rapporteur général de la loi sur la Sécurité Sociale 2025</button>
 <div class="panel">
     <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">(…) Sur la question des postes d’<a href="https://twitter.com/hashtag/internes?src=hash&amp;ref_src=twsrc%5Etfw">#internes</a> non renouvelés, il s’agit d’une nouvelle goutte qui fait déborder le vase, résultat d’une succession de réformes mal faites et précipitées. Je comprends totalement ces étudiants, qui décident d’une spécialité dont laquelle dépendra leur… <a href="https://t.co/Gd4a9BkEKs">https://t.co/Gd4a9BkEKs</a></p>&mdash; Dr. Yannick Neuder (@yannickneuder) <a href="https://twitter.com/yannickneuder/status/1826667249958015261?ref_src=twsrc%5Etfw">August 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </div>
 
-<h2>La presse en parle</h2>
+</b>La presse en parle</b>
 
 <button class="accordion">Le Figaro</button>
 <div class="panel">
