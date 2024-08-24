@@ -13,39 +13,9 @@ Cette section est dédiée au partage de documents essentiels pour les étudiant
 
 Vous trouverez ici un détail complet de nos revenus et dépenses, incluant les sources de financement et l'utilisation précise de ces fonds. Nous croyons fermement que la transparence est essentielle pour maintenir la confiance de nos membres et garantir une gestion responsable de nos ressources. Explorez cette section pour comprendre comment chaque contribution est utilisée pour soutenir les activités et les initiatives du CIREM.
 
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comptabilité</title>
-    <style>
-        body {
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        iframe {
-            width: 100%;
-            height: 800px;
-            border: none;
-        }
-        .download-link {
-            display: block;
-            margin-top: 20px;
-            text-align: center;
-            font-size: 18px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0uzsRTJfrZmlfkgEI2678SjKK6mlIdge0GYtu19n5OUCOSOhvD2FsyhNQCqOBJYSrQeJeSGrmhwP/pubhtml?gid=637200569&single=true&widget=true&headers=false"></iframe> -->
-        <a class="download-link" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0uzsRTJfrZmlfkgEI2678SjKK6mlIdge0GYtu19n5OUCOSOhvD2FsyhNQCqOBJYSrQeJeSGrmhwP/pub?gid=637200569&single=true&output=pdf" download>Télécharger le PDF</a>
-    </div>
-</body>
-</html>
+<div class="container">
+    <a class="download-link" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0uzsRTJfrZmlfkgEI2678SjKK6mlIdge0GYtu19n5OUCOSOhvD2FsyhNQCqOBJYSrQeJeSGrmhwP/pub?gid=637200569&single=true&output=pdf" download>Télécharger le PDF</a>
+</div>
 
 ### Comptes-rendus des réunions
 
@@ -66,4 +36,3 @@ Le CIREM hérite du CIRE. Vous retrouverez donc ici les documents issus des acti
 - Consultation d'un avocat au Conseil d'Etat, maître Arvis, vis-à-vis de la [légalité des ECOS](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/consultation_arvis_avocat.pdf).
 
 - Consultation nationale des étudiants en Médecine à propos des ECOS. Parmi les **2523 répondants**, dont 1440 DFASM3, **83% demandent des ECOS validants**. Résultats complets [ici](https://github.com/ciremwebsite/ciremwebsite.github.io/blob/main/ressources/CIRE/sondage_cire_resultat.png).
-
